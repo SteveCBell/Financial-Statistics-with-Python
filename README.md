@@ -5,7 +5,7 @@ Federal Reserve Economic Database (FRED) using the Pandas data reader through to
 will be on exploring non-normal behaviour using realworld data. Some of the implications for risk management and trading will be considered.
 
 The financial level of the course will be similar to my book "Quantitative Finance for Dummies" John Wiley 2016. You can buy the book
-on Amazon [here](https://www.amazon.co.uk/Quantitative-Finance-Dummies-Steve-DPhil/dp/1118769465/ref=sr_1_3?crid=1CUSFDUX352PM&keywords=quantitative+finance&qid=1694182682&s=books&sprefix=quan%2Cstripbooks%2C69&sr=1-3)
+on Amazon [here](https://www.amazon.co.uk/Quantitative-Finance-Dummies-Steve-DPhil/dp/1118769465/ref=sr_1_3?crid=1CUSFDUX352PM&keywords=quantitative+finance&qid=1694182682&s=books&sprefix=quan%2Cstripbooks%2C69&sr=1-3).
 
 I will be delivering the course next at the Royal Statistical Society in London on the 7<sup>th</sup> and 8<sup>th</sup> November 2023. For the full
-details see [here](https://rss.org.uk/training-events/training/public-courses/software-training/financial-statistics-with-python/)
+details see [here](https://rss.org.uk/training-events/training/public-courses/software-training/financial-statistics-with-python/).
